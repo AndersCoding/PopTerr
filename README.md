@@ -1,7 +1,8 @@
 # PopTerr – Interaction Design Exam Project
+### Grade: A
 
 This repository contains documentation and design for the exam project **PopTerr**, developed in the course *Interaction Design* (DS3302 1 23H) at Kristiania University College (Fall 2023).
-Grade: A
+
 
 ## 📖 About the Project
 **PopTerr** (Populus Terrebis – "afraid of people") is a conceptual clothing shopping app.  
